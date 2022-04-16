@@ -1,5 +1,6 @@
 #https://www.practicepython.org/exercise/2014/02/26/04-divisors.html
 __author__ = 'DDM'
+print("The author is",__author__,"! (.^-^.)")
 dividend=input("Enter the number:")
 int_dividend=int(dividend)
 listofdivisor=[]
