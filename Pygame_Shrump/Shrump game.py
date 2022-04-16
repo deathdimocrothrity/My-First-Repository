@@ -24,6 +24,17 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("DDM!")
 clock = pygame.time.Clock()
 
+def draw_shield_bar(surf, x, y, pct):
+    if pct < 0:
+        pct = 0
+    BAR_LENGTH = 100
+    BAR_HEIGHT = 10
+    fill = (pct / 10) * BAR_LENGTH
+    outline_rect = pygame.Rect(x, y, BAR_LENGTH, BAR_HEIGHT)
+    fill_rect = pygame.Rect(x, y, fill, BAR_HEIGHT)
+    pygame.draw.rect(surf, GREEN, fill_rect)
+    pygame.draw.rect(surf, WHITE, outline_rect, 2)
+
 font_name = pygame.font.match_font('arial')
 def draw_text(surf, text, size, x, y):
     font = pygame.font.Font(font_name, size)
@@ -34,6 +45,7 @@ def draw_text(surf, text, size, x, y):
 
 class Player(pygame.sprite.Sprite):
     def __init__(self):
+        self.shield = 100
         pygame.sprite.Sprite.__init__(self)
         self.image = pygame.transform.scale(player_img, (50, 38))
         self.image.set_colorkey(BLACK)
@@ -141,15 +153,17 @@ mobs = pygame.sprite.Group()
 bullets = pygame.sprite.Group()
 player = Player()
 all_sprites.add(player)
-for i in range(20):
+def mobfunc():
     m = Mob()
     all_sprites.add(m)
     mobs.add(m)
+for i in range(20):
+    mobfunc()
 score = 0
 pygame.mixer.music.play(loops=-1) 
 # Game loop
 running = True
-bullet_speed = 7 # meaning shoot one bullet for every 10 frame
+bullet_speed = 1 # meaning shoot one bullet for every 10 frame
 bullet_current_count = 0 # contrlling if play can shoot bullet in current frame
 while running:
     # keep loop running at the right speed
@@ -159,10 +173,6 @@ while running:
         # check for closing window
         if event.type == pygame.QUIT:
             running = False
-        #elif event.type == pygame.TEXTINPUT:
-            #pygame.key.set_repeat(1,10) 
-         #   if event.text == " ":
-          #      player.shoot()
 
     if bullet_current_count > 0 :
         bullet_current_count -= 1
@@ -182,20 +192,23 @@ while running:
     for hit in hits:
         score += 50 - hit.radius
         random.choice(expl_sounds).play()
-        m = Mob()
-        all_sprites.add(m)
-        mobs.add(m)
+        mobfunc()
 
     # check to see if a mob hit the player
     hits = pygame.sprite.spritecollide(player, mobs, False )
-    if hits:
-        running = False
+    for hit in hits:
+        player.shield -= hit.radius*0.001
+        #mobfunc()
+        if player.shield <= 0:
+            running = False
 
     # Draw / render
     screen.fill(BLACK)
     screen.blit(background, background_rect)
     all_sprites.draw(screen)
     draw_text(screen, str(score), 18, WIDTH / 2, 10)
+    draw_text(screen, str(score), 18, WIDTH / 2, 10)
+    draw_shield_bar(screen, 5, 5, player.shield)
     # *after* drawing everything, flip the display
     pygame.display.flip()
 
