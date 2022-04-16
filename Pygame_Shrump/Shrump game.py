@@ -129,8 +129,8 @@ for img in meteor_list:
     meteor_images.append(pygame.image.load(path.join(img_dir, img)).convert())
 
 # Load all game sounds
-shoot_sound = pygame.mixer.Sound(path.join(snd_dir, 'pew.wav'))
-expl_sounds = []
+shoot_sound = pygame.mixer.Sound(path.join(snd_dir, 'pew.wav'))  #biu!
+expl_sounds = [] #peng!
 for snd in ['expl3.wav', 'expl6.wav']:
     expl_sounds.append(pygame.mixer.Sound(path.join(snd_dir, snd)))
 pygame.mixer.music.load(path.join(snd_dir, 'tgfcoder-FrozenJam-SeamlessLoop.ogg'))
@@ -141,7 +141,7 @@ mobs = pygame.sprite.Group()
 bullets = pygame.sprite.Group()
 player = Player()
 all_sprites.add(player)
-for i in range(20):
+for i in range(1):
     m = Mob()
     all_sprites.add(m)
     mobs.add(m)
