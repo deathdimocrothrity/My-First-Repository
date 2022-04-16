@@ -141,7 +141,7 @@ mobs = pygame.sprite.Group()
 bullets = pygame.sprite.Group()
 player = Player()
 all_sprites.add(player)
-for i in range(1):
+for i in range(20):
     m = Mob()
     all_sprites.add(m)
     mobs.add(m)
