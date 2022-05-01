@@ -1,0 +1,12 @@
+32.303919   32.303919	Hello Wendy is speaking.
+35.650180	35.650180	Ann is on the phone? 
+37.929099	37.929099	Can you put my mother on the phone? 
+41.905188	41.905188	You're very difficult to reach. 
+45.775504	45.775504	Dialouges 
+48.083270	48.083270	Conversation 1
+50.883000	50.883000	calling to make an appointment for an interview
+54.203659	54.203659	One
+56.968170	56.968170	A: Hello, is Vanasa there? 
+59.588446	59.588446	B: Yes, this is Vanasa.
+61.901021	61.901021	A: Hi, Vanasa. I am Don. I am calling from Zeller's Market.  Are you still interested in a position as a cashier? 
+69.848390	69.848390	B: Yes. Is the position available now?
