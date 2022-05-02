@@ -1,271 +1,272 @@
 [00:00:00]Part 1
-
+ 
 
 [00:00:02]leaving matters
-
+ 
 
 [00:00:04]Chapter 1
-
+ 
 
 [00:00:06]Making phone calls
-
-
-[00:00:08]
-
+ 
 
 [00:00:08]
+ 
 
+[00:00:08]
+ 
 
 [00:00:09]Unit1 Regular Calls
-
+ 
 
 [00:00:13]Basic expressions
-
+ 
 
 [00:00:16]A: Is Vanasa there?
-
+ 
 
 [00:00:18]B: This is Vanasa.
-
+ 
 
 [00:00:21]"A: Can I speak to Kevin, please?"
-
+ 
 
 [00:00:24]"A: Hi, Daddy, where are you."
-
+ 
 
 [00:00:27]A: Who's calling? B: It's Mike.
-
+ 
 
 [00:00:32]Hello Wendy is speaking.
-
+ 
 
 [00:00:36]Ann is on the phone?
-
+ 
 
 [00:00:38]Can you put my mother on the phone?
-
+ 
 
 [00:00:42]You're very difficult to reach.
-
+ 
 
 [00:00:46]Dialouges
-
+ 
 
 [00:00:48]Conversation 1
-
+ 
 
 [00:00:51]calling to make an appointment for an interview
-
+ 
 
 [00:00:54]One
-
+ 
 
 [00:00:57]"A: Hello, is Vanasa there?"
-
+ 
 
 [00:00:60]"B: Yes, this is Vanasa."
-
+ 
 
 [00:01:02]"A: Hi, Vanasa. I am Don. I am calling from Zeller's Market.  Are you still interested in a position as a cashier?"
-
+ 
 
 [00:01:10]B: Yes. Is the position available now?
-
+ 
 
 [00:01:13]"A: Yes, It is.  Please come to see me tomorrow afternoon at 2 o'clock for an job interview."
-
+ 
 
 [00:01:19]B: Thanks a lot.
-
+ 
 
 [00:01:21]A: You're welcome. I will see you tomorrow at 2 O'clock.
-
+ 
 
 [00:01:24]B: I will see you then. Good bye!
-
+ 
 
 [00:01:28]Conversation 2: Calling to make an appointment for an interview.  Two.
-
+ 
 
 [00:01:36]A: Hello. Can I speak to Kevin please?
-
+ 
 
 [00:01:41]B: This is Kevin.
-
+ 
 
 [00:01:42]A: My name is Joan Harris. I am calling from St. John Hospital.
-
+ 
 
 [00:01:47]Are you still interested in a job as a service technician?
-
+ 
 
 [00:01:51]Yes!
-
+ 
 
 [00:01:52]I have a good news for you. You've got an interview.
-
+ 
 
 [00:01:56]Can you come to the human resources office on Thursday at 9:30 AM
-
+ 
 
 [00:02:01]"Wow, that's great.  Sure I can. Where is the human resources office?"
-
+ 
 
 [00:02:07]345 Stony Creek Avenue.
-
+ 
 
 [00:02:10]Thank you very much. I will be there on time.
-
+ 
 
 [00:02:13]Excellent. I will see you on Thursday at 9:30 am
-
+ 
 
 [00:02:17]conversation 3: Calling home to say I am all right.
-
+ 
 
 [00:02:23]Hello
-
+ 
 
 [00:02:24]"Hi, Daddy. It's me, Troy"
-
+ 
 
 [00:02:27]"Hi, Troy. How is your trip going?"
-
+ 
 
 [00:02:30]It's nice. I arrive safely.
-
+ 
 
 [00:02:33]Are you alright?
-
+ 
 
 [00:02:35]I am fine. Is everything fine in the family?
-
+ 
 
 [00:02:38]"Yeah, everything is fine in the family."
-
+ 
 
 [00:02:41]Don't worry about the family. Just Enjoy your trip.
-
+ 
 
 [00:02:45]how's the weather there?
-
+ 
 
 [00:02:47]The weather is gorgous here.
-
+ 
 
 [00:02:49]That's good. Take good care of yourself.
-
+ 
 
 [00:02:53]I will. Thank you Dad.
-
+ 
 
 [00:02:55]"I love you, Troy."
-
+ 
 
 [00:02:57]I love you too. Bye
-
+ 
 
 [00:03:00]"Conversation 4, Calling your family"
-
+ 
 
 [00:03:06]Hello.
-
+ 
 
 [00:03:07]"Hi, my sweet heart. It's Daddy."
-
+ 
 
 [00:03:10]"Hi, Daddy. Where are you."
-
+ 
 
 [00:03:13]I am at work right now.
-
+ 
 
 [00:03:15]"You can reach me at, 905-675-9870"
-
+ 
 
 [00:03:22]Please call this number if you need me
-
+ 
 
 [00:03:25]"Thank you, Daddy."
-
+ 
 
 [00:03:26]I love you.
-
+ 
 
 [00:03:28]"I love you too, Daddy."
-
+ 
 
 [00:03:30]Conversation 5. Who's calling
-
+ 
 
 [00:03:35]"Hello, can I speak to Anna?"
-
+ 
 
 [00:03:38]Who's calling
-
+ 
 
 [00:03:39]"It's Mike, her boyfriend."
-
+ 
 
 [00:03:41]"Hold on, I'll get her."
-
+ 
 
 [00:03:44]Thanks a lot
-
+ 
 
 [00:03:47]"Conversation 6, Who's calling."
-
+ 
 
 [00:03:50]Hello
-
+ 
 
 [00:03:52]"Hi, I like to speak to Kevin, please."
-
+ 
 
 [00:03:55]May I ask who's calling?
-
+ 
 
 [00:03:57]It's Diana. Kevin's sister.
-
+ 
 
 [00:03:60]One Moment please.
-
+ 
 
 [00:04:01]Thank you!
-
+ 
 
 [00:04:04]Conversation 7. Call me back.
-
+ 
 
 [00:04:09]Hello
-
+ 
 
 [00:04:11]"Hi, it's Tony calling from the dentist office."
-
+ 
 
 [00:04:14]Is Lily there?
-
+ 
 
 [00:04:16]No. Lily is not here for the moment.
-
+ 
 
 [00:04:19]Could you ask her to call me back when she gets in?
-
+ 
 
 [00:04:22]Sure. What's your number please?
-
+ 
 
 [00:04:25]519-367-8901
-
+ 
 
 [00:04:30]"Thanks, and your name is Tony right?"
-
+ 
 
 [00:04:34]"Yes, I am Tony. Thank you very much"
-
+ 
 
 [00:04:37]You're welcome. Bye
+ 
 
+[00:04:39]Bye 
 
-[00:04:39]Bye

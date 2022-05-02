@@ -12,11 +12,7 @@ for line in f:
     S=round(S,0)
     FinalTime=("%02d:%02d:%02d" % (H, M, S))
     mysentence=Flist[2]
-    finalf.write("[")
-    finalf.write(FinalTime)
-    finalf.write("]")
-    finalf.write(mysentence)
-    finalf.write("\n")
-    finalf.write("\n")
+    oneline="[{}]{} \n\n"
+    finalf.write(oneline.format(FinalTime,mysentence))
 f.close()
 
