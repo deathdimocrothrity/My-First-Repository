@@ -1,12 +1,91 @@
-32.303919   32.303919	Hello Wendy is speaking.
-35.650180	35.650180	Ann is on the phone? 
-37.929099	37.929099	Can you put my mother on the phone? 
-41.905188	41.905188	You're very difficult to reach. 
-45.775504	45.775504	Dialouges 
+0.418283	0.418283	Part 1
+1.961601	1.961601	leaving matters
+4.139556	4.139556	Chapter 1
+5.908843	5.908843	Making phone calls
+7.779095	7.779095	
+7.779095	7.779095	
+8.894516	8.894516	Unit1 Regular Calls
+12.721000	12.721000	Basic expressions
+16.337062	16.337062	A: Is Vanasa there?
+18.313086	18.313086	B: This is Vanasa.
+20.692970	20.692970	"A: Can I speak to Kevin, please?"
+23.606525	23.606525	"A: Hi, Daddy, where are you."
+26.938363	26.938363	A: Who's calling? B: It's Mike.
+32.303919	32.303919	Hello Wendy is speaking.
+35.650180	35.650180	Ann is on the phone?
+37.929099	37.929099	Can you put my mother on the phone?
+41.905188	41.905188	You're very difficult to reach.
+45.775504	45.775504	Dialouges
 48.083270	48.083270	Conversation 1
 50.883000	50.883000	calling to make an appointment for an interview
 54.203659	54.203659	One
-56.968170	56.968170	A: Hello, is Vanasa there? 
-59.588446	59.588446	B: Yes, this is Vanasa.
-61.901021	61.901021	A: Hi, Vanasa. I am Don. I am calling from Zeller's Market.  Are you still interested in a position as a cashier? 
+56.968170	56.968170	"A: Hello, is Vanasa there?"
+59.588446	59.588446	"B: Yes, this is Vanasa."
+61.901021	61.901021	"A: Hi, Vanasa. I am Don. I am calling from Zeller's Market.  Are you still interested in a position as a cashier?"
 69.848390	69.848390	B: Yes. Is the position available now?
+72.733098	72.733098	"A: Yes, It is.  Please come to see me tomorrow afternoon at 2 o'clock for an job interview."
+78.997722	78.997722	B: Thanks a lot.
+80.617966	80.617966	A: You're welcome. I will see you tomorrow at 2 O'clock.
+84.305584	84.305584	B: I will see you then. Good bye!
+87.720000	87.720000	Conversation 2: Calling to make an appointment for an interview.  Two.
+96.281929	96.281929	A: Hello. Can I speak to Kevin please?
+100.743610	100.743610	B: This is Kevin.
+102.161925	102.161925	A: My name is Joan Harris. I am calling from St. John Hospital.
+107.111000	110.821000	Are you still interested in a job as a service technician?
+111.009000	112.257000	Yes!
+112.257000	115.580000	I have a good news for you. You've got an interview.
+115.989000	121.113000	Can you come to the human resources office on Thursday at 9:30 AM
+121.289000	126.545000	"Wow, that's great.  Sure I can. Where is the human resources office?"
+126.899000	130.046000	345 Stony Creek Avenue.
+130.245000	133.182000	Thank you very much. I will be there on time.
+133.414000	137.033234	Excellent. I will see you on Thursday at 9:30 am
+137.470748	142.720916	conversation 3: Calling home to say I am all right.
+142.980540	144.092000	Hello
+144.367723	146.641723	"Hi, Daddy. It's me, Troy"
+146.974000	150.044000	"Hi, Troy. How is your trip going?"
+150.165000	152.638000	It's nice. I arrive safely.
+152.846240	154.327926	Are you alright?
+154.560000	157.773000	I am fine. Is everything fine in the family?
+158.093000	161.185000	"Yeah, everything is fine in the family."
+161.340000	164.642000	Don't worry about the family. Just Enjoy your trip.
+164.818000	166.486000	how's the weather there?
+166.883000	169.114000	The weather is gorgous here.
+169.423000	172.559000	That's good. Take good care of yourself.
+172.956000	175.099000	I will. Thank you Dad.
+175.297000	176.479000	"I love you, Troy."
+176.733000	179.140000	I love you too. Bye
+180.377000	184.760651	"Conversation 4, Calling your family"
+185.633000	186.969000	Hello.
+187.190000	190.249000	"Hi, my sweet heart. It's Daddy."
+190.436000	192.965119	"Hi, Daddy. Where are you."
+193.208000	195.030000	I am at work right now.
+195.217759	201.621759	"You can reach me at, 905-675-9870"
+201.744000	204.681000	Please call this number if you need me
+204.803000	206.061000	"Thank you, Daddy."
+206.238000	207.530000	I love you.
+207.685000	209.352000	"I love you too, Daddy."
+210.314427	214.564000	Conversation 5. Who's calling
+215.238000	218.098000	"Hello, can I speak to Anna?"
+218.241000	219.301000	Who's calling
+219.378000	221.223000	"It's Mike, her boyfriend."
+221.477000	223.397844	"Hold on, I'll get her."
+223.663000	224.734000	Thanks a lot
+226.666000	230.045000	"Conversation 6, Who's calling."
+230.388000	231.448000	Hello
+232.022000	235.114000	"Hi, I like to speak to Kevin, please."
+235.368000	237.212000	May I ask who's calling?
+237.289000	239.487000	It's Diana. Kevin's sister.
+239.785000	241.331000	One Moment please.
+241.419000	242.302000	Thank you!
+244.213000	247.835000	Conversation 7. Call me back.
+249.104000	250.231000	Hello
+250.606000	254.085000	"Hi, it's Tony calling from the dentist office."
+254.239000	255.377000	Is Lily there?
+255.597000	258.612000	No. Lily is not here for the moment.
+258.921000	262.046000	Could you ask her to call me back when she gets in?
+262.311000	264.796000	Sure. What's your number please?
+265.028000	269.698000	519-367-8901
+270.118000	273.420000	"Thanks, and your name is Tony right?"
+273.519000	276.556000	"Yes, I am Tony. Thank you very much"
+276.677000	278.599000	You're welcome. Bye
+278.665000	279.349000	Bye
