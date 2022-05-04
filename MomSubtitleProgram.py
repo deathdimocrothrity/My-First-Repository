@@ -1,3 +1,5 @@
+from decimal import Decimal, ROUND_HALF_UP
+import math
 File="MomSubtitleFile"#input("Enter File Name:")
 f = open(File+".txt", "r")
 finalf = open("SubtitleFinal.txt", "w")
@@ -6,13 +8,17 @@ for line in f:
     Flist=line.rsplit("\t")
     mytime=Flist[0]
     inttime=float(mytime)
-    H=inttime//3600
-    M=(inttime-H*3600)//60
-    S=inttime-H*3600-M*60
-    S=round(S,0)
-    FinalTime=("%02d:%02d:%02d" % (H, M, S))
+    M=inttime//60
+    S=inttime-M*60
+    S=round(S,2)
+    time=("%02d:%02d" % (M,S))
+    time=str(time)
+    Ssplit=math.modf(S)
+    Sdecimalpart=str(Decimal(Ssplit[0]).quantize(Decimal('0.00'), rounding=ROUND_HALF_UP))
+    Finaltime=time+Sdecimalpart[1:4]
+    print(Finaltime)
     mysentence=Flist[2]
     oneline="[{}]{} \n\n"
-    finalf.write(oneline.format(FinalTime,mysentence))
+    finalf.write(oneline.format(Finaltime,mysentence))
 f.close()
 
