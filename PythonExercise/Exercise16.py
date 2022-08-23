@@ -1,4 +1,6 @@
 #https://www.practicepython.org/exercise/2014/05/28/16-password-generator.html
+__author__ = 'DDM'
+print("The author is",__author__,"! (.^-^.)")
 import random
 list1=["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z", ]
 list2=["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z", ]
