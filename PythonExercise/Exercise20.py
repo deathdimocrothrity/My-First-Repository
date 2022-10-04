@@ -34,11 +34,9 @@ def binary_search(listlen,list1,Number):
         elif list1[midian]>Number:
             for i in range(1,1+listlen-midian):
                 list1.pop(midian)
-                print(list1)
         elif list1[midian]<Number:
             while midian>0:
                 list1.pop(midian)
                 midian-=1
-                print(list1)
     return False
 print(binary_search(listlen,list1,number))
